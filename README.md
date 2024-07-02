@@ -4,9 +4,9 @@
  En cada semana se abrira una carpeta con un README con la parte que se va a estudiar y los problemas que 
  se van a resolver 
  los lenguajes seran:
- -Java
- -c#
- -Python
+ + Java
+ - c#
+ - Python
  (a eleccion de cada uno)
  > "Hablar es barato. Muéstrame el código."
 >
